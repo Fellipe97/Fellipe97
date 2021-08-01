@@ -30,7 +30,8 @@
   <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/jupyter-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/vscode-original.svg"> 
   <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/oracle-original.svg"> 
-  <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/linux-original.svg"> 
+  <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/linux-original.svg">
+  <img align="right" src="https://github.com/Fellipe97/Fellipe97/blob/main/Baby%20Yoda%20Xs19%20GIF%20-%20BabyYoda%20Xs19%20-%20Discover%20%26%20Share%20GIFs.gif">
 </div>
 
 
