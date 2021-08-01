@@ -12,8 +12,14 @@
   <a href="https://github.com/Fellipe97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellipe97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- <h3>Lingugens</h3>
-   <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/javascript-original.svg">
+<h3>Tecnologias conhecidas</h3>
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/javascript-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/react-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/c-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/python-original.svg">
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/java-original.svg">
+<br/>
+
 
 
 
