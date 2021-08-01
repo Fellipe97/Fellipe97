@@ -25,8 +25,14 @@
 <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/figma-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/photoshop-plain.svg">
 <br />
-<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/jupyter-original-wordmark.svg">
 <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/mysql-original-wordmark.svg">
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/jupyter-original-wordmark.svg">
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/vscode-original.svg"> 
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/oracle-original.svg"> 
+<img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/linux-original.svg"> 
+
+
+
 
 
 
