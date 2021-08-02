@@ -1,4 +1,4 @@
-<h1><b>Sou o Luíz fellipe 👋,<br> seja bem vindo ao meu GitHub!! </b>👋</h1>
+<h1><b>Sou o Luíz fellipe,<br> seja bem vindo ao meu GitHub!! </b>👋</h1>
 <h3>Estou passando por uma reformulação do meu GitHub mas o intuido dele
 é posssuir trilhas de conhecimendo para cada tecnologia que estou aprendendo/aprendi.<br/>Algumas dicas:
 <br/><br/>- Leia o Readme do repósitorio desejado;
