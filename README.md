@@ -10,8 +10,8 @@
 <div>
   </br>
   <a href="https://github.com/Fellipe97">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fellipe97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe97&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fellipe97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe97&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
   <h3>Tecnologias conhecidas</h3>
