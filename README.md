@@ -1,4 +1,4 @@
-<h1><b>Sou o Luíz fellipe 👋,<br> seja bem vindo ao meu GitHub!! <b>👋</h1>
+<h1><b>Sou o Luíz fellipe 👋,<br> seja bem vindo ao meu GitHub!! </b>👋</h1>
 <h3>Estou passando por uma reformulação do meu GitHub mas o intuido dele
 é posssuir trilhas de conhecimendo para cada tecnologia que estou aprendendo/aprendi.<br/>Algumas dicas:
 <br/><br/>- Leia o Readme do repósitorio desejado;
@@ -10,9 +10,9 @@
 <div>
   </br>
   <a href="https://github.com/Fellipe97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellipe97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fellipe97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
-<div>
+<div style="display: inline_block">
   <h3>Tecnologias conhecidas</h3>
   <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/Fellipe97/Fellipe97/blob/main/react-original.svg">
