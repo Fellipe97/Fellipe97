@@ -1,12 +1,12 @@
 <h1><b>Sou o Luíz fellipe,<br> seja bem vindo ao meu GitHub!! </b>👋</h1>
 <h3>Estou passando por uma reformulação do meu GitHub mas o intuido dele
-é posssuir trilhas de conhecimendo para cada tecnologia que estou aprendendo/aprendi.<br/>Algumas dicas:
-<br/><br/>- Leia o Readme do repósitorio desejado;
-<br/>- Preste bastante atenção nos comentários dos códigos;
-<br/>- Tenta fazer os exercicios (se tiver), sem olhar a resposta;
-<br/>- Se tiver dúvidas pertinentes me precure nas redes socias.
+  é posssuir trilhas de conhecimendo para cada tecnologia que estou aprendendo/aprendi.<br/>Algumas dicas:
+  <br/><br/>- Leia o Readme do repósitorio desejado;
+  <br/>- Preste bastante atenção nos comentários dos códigos;
+  <br/>- Tenta fazer os exercicios (se tiver), sem olhar a resposta;
+  <br/>- Se tiver dúvidas pertinentes me precure nas redes socias.
+  🤓🤓 Bons Estudos 🤓🤓
 </h3>
-🤓🤓 Bons Estudos 🤓🤓
 <div>
   </br>
   <a href="https://github.com/Fellipe97">
