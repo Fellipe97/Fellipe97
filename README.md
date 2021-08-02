@@ -34,6 +34,8 @@
   <img align="right" height="150" width="150" src="https://github.com/Fellipe97/Fellipe97/blob/main/Xs19%20Baby%20Yoda%20GIF%20-%20Xs19%20BabyYoda%20-%20Discover%20%26%20Share%20GIFs%20(1).gif">
 </div>
 
+![Snake animation](https://github.com/Fellipe97/Fellipe97/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
