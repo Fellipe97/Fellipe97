@@ -5,7 +5,7 @@
   <br/>- Preste bastante atenção nos comentários dos códigos;
   <br/>- Tenta fazer os exercicios (se tiver), sem olhar a resposta;
   <br/>- Se tiver dúvidas pertinentes me precure nas redes socias.
-  <br/>🤓🤓 Bons Estudos 🤓🤓
+  <br/>🤓🤓 Bons Estudos 🤓🤓 <br/>
 </h3>
 <div>
   </br>
