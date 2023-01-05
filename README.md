@@ -4,7 +4,7 @@
   <br/><br/>- Leia o Readme do repósitorio desejado;
   <br/>- Preste bastante atenção nos comentários dos códigos;
   <br/>- Tenta fazer os exercicios (se tiver), sem olhar a resposta;
-  <br/>- Se tiver dúvidas pertinentes me precure nas redes socias.
+  <br/>- Se tiver dúvidas pertinentes me procure nas redes socias.
   <br/><br/>🤓🤓 Bons Estudos 🤓🤓 
 </h3>
 <div>
